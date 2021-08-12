@@ -59,6 +59,6 @@ python3 main.py
 
 ## Credits
 
-- [Doreamonfans](https://t.me/doreamonfans1) For Mking Code
+- [Doreamonfans](https://t.me/doreamonfans1) For Making Code
 - [Pyrogram](https://github.com/pyrogram/pyrogram) Pyrogram credit
 - [Fayas Nousad](https://t.me/thefayas) For Helping Me 
