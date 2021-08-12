@@ -7,11 +7,11 @@ from plugins.info import *
 START_TEXT = """Hello {}
 I am Disney Team movie information finder bot.
 > `I can find information of all movies.`
-Made In By  By @doreamonfans1"""
+Made In 🇮🇳 By ❤ By @doreamonfans1"""
 
 JOIN_BUTTONS = [
     InlineKeyboardButton(
-        text='Updates Channel',
+        text='👨‍🔧 Updates Channel👨‍🔧',
         url='https://telegram.me/disneygrou'
     )
 ]
